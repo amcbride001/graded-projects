@@ -17,7 +17,8 @@ public class FortuneTellerApp {
 		System.out.println("What is your age?");
 		int userAge = input.nextInt();
 		
-
+        System.out.println("What is your birth month? Use numbers.");
+        int userBirth = input.nextInt();
 	}
 
 }
